@@ -1,3 +1,4 @@
+#获取豆瓣网评
 from urllib import request
 import json
 import urllib.request

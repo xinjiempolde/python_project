@@ -1,3 +1,4 @@
+#爬取ps设计作品
 import requests
 from urllib import request
 import json
